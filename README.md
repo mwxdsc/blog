@@ -9,7 +9,7 @@ experiment: from one extreme side to another and always pass the midpoint(unders
 <br>if q then r
 <br>———————
 <br>if p then r
-<b>disjunctive syllogism</b>
+<br><b>disjunctive syllogism</b>
 <br>p or q
 <br>not q
 <br>———————
