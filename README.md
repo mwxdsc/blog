@@ -13,7 +13,7 @@ experiment: from one extreme side to another and always pass the midpoint(unders
 <br>p or q
 <br>not q
 <br>———————
-<br>then p
+<br>p
 <br><b>3.modus ponens</b>
 <br>if p then q
 <br>p
