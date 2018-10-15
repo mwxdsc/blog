@@ -7,5 +7,5 @@ experiment: from one extreme side to another and always pass the midpoint(unders
 <b>hypothetical syllogism</b>
 <br>if p then q
 <br>if q then r
-<hr style="height:1px;border:none;border-top:1px dashed #0066CC;" />
+<br>———————
 <br>if p then r
