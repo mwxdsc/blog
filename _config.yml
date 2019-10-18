@@ -1,1 +1,4 @@
-theme: jekyll-theme-leap-day
+deploy:
+  type: git
+  repo: https://github.com/YourgithubName/YourgithubName.github.io.git
+  branch: master
